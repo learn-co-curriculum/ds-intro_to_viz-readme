@@ -241,7 +241,7 @@ Let’s look at a real dataset that shows exactly how summary statistics can be 
 A great example is the distribution of starting salaries for new law graduates. The National Association of Law Placement (NALP) reports that in 2012, lawyers made $80,798 on average in starting salary. However a look at the salary distribution shows what law salaries really look like:
 
 
-<img src='lawyers.gif', width=600 >
+![](lawyers.gif)
 
 
 The visualization above shows that  law graduates usually fall into one of two groups. The majority of new lawyers make somewhere between 35,000 and 75,000 USD per year, and a sizable minority earns 160,000 USD per year. 
